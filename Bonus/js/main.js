@@ -7,5 +7,6 @@ var app = new Vue({
     el: '#root',
     data: {
         message: 'New Macbook Air',
+        foto: "img/macbook.jpg"
     }
 })
