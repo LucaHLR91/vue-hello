@@ -6,7 +6,7 @@ Vue.config.devtools = true;
 var app = new Vue({
     el: '#root',
     data: {
-        message: 'New Macbook Air',
+        message: 'New Macbook Pro',
         foto: "img/macbook.jpg"
     }
 })
